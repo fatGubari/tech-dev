@@ -9,9 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-icons/all-files": "^4.1.0",
+    "@tabler/icons-react": "^3.24.0",
+    "@tsparticles/engine": "^3.7.1",
+    "@tsparticles/react": "^3.0.0",
+    "@tsparticles/slim": "^3.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.13.5",
+    "next": "15.0.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.0.4"
+    "react-icons": "^5.4.0",
+    "tailwind-merge": "^2.5.5"
   },
   "devDependencies": {
     "postcss": "^8",
